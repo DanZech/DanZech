@@ -1,14 +1,6 @@
-### Hi there 👋, my name is Daniel
-#### and I am changing my carreer: FullStackDev
+### Hi there 👋, 
 
-Outdoor Faculdade a distância EAD Moderno e Azul.png
-
-![and I am changing my career: FullStackDev](DanZech/Outdoor Faculdade a distância EAD Moderno e Azul.png)
-
-![and I am changing my career: FullStackDev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-
-I used to be a Lawyer, M.Sc. Constitutional/Labor Law, who decided to move to the IT path. So far I have learned HTML, CSS, and some Python. Right now I am trying to master GIT and GITHUB, and this is the reason I am working on the README.MD presentation, and soon we will have a webpage (I hope!!). Well, you can follow my journey of learning and starting something new from scratch, and even better if you can teach me something. Thanks a lot!
+I am Daniel and for almost two decades I used to be a Lawyer, M.Sc. Constitutional/Labor Law, who decided to move to the IT path. So far I have learned HTML, CSS, and some Python. Right now I am trying to master GIT and GITHUB, and this is the reason I am working on the README.MD presentation, and soon we will have a webpage (I hope!!). Well, you can follow my journey of learning and starting something new from scratch, and even better if you can teach me something. Thanks a lot!
 
 Skills: HTML / CSS / Python (on going)
 
