@@ -3,7 +3,7 @@
 
 Outdoor Faculdade a distância EAD Moderno e Azul.png
 
-![and I am changing my career: FullStackDev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![and I am changing my career: FullStackDev](Outdoor Faculdade a distância EAD Moderno e Azul.png)
 
 I used to be a Lawyer, M.Sc. Constitutional/Labor Law, who decided to move to the IT path. So far I have learned HTML, CSS, and some Python. Right now I am trying to master GIT and GITHUB, and this is the reason I am working on the README.MD presentation, and soon we will have a webpage (I hope!!). Well, you can follow my journey of learning and starting something new from scratch, and even better if you can teach me something. Thanks a lot!
 
@@ -15,8 +15,6 @@ Skills: HTML / CSS / Python (on going)
 - 💬 Ask me about how to combine lawyer and Dev mindset. 
 - 📫 How to reach me: dani.zech@gmail.com 
 - ⚡ Fun fact: role play on a TV advertisement 
-
-![This picture will be replaced, but for now it is ok to learn to insert images here.](Outdoor Faculdade a distância EAD Moderno e Azul.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanZech)  
 
