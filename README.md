@@ -25,7 +25,9 @@ Skills: HTML / CSS / Python (on going)
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 -->
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=DanZech)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZech)](https://github.com/anuraghazra/github-readme-stats)
 
