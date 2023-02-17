@@ -17,12 +17,10 @@ Thank you for taking the time to check out my GitHub presentation. Let's connect
 - 📫 How to reach me: dani.zech@gmail.com 
 - ⚡ Fun fact: role play on a TV advertisement 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanZech)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanZech&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZech)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub metrics](https://metrics.lecoq.io/DanZech)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=DanZech)  
 
-![Profile views](https://gpvc.arturio.dev/DanZech)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanZech) ![Profile views](https://gpvc.arturio.dev/DanZech)  
