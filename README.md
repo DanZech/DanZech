@@ -19,9 +19,7 @@ Thank you for taking the time to check out my GitHub presentation. Let's connect
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanZech)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZech)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanZech&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=DanZech)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanZech&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanZech)](https://github.com/anuraghazra/github-readme-stats)  
 
 ![GitHub metrics](https://metrics.lecoq.io/DanZech)  
 
