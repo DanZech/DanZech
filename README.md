@@ -1,3 +1,3 @@
 - ✅ Python backend developer
 - 💚 Searching for an internship  
-- 🔫 daniel.zechlinksi@gmail.com 
+- 🔫 daniel.zechlinski@gmail.com 
