@@ -3,7 +3,7 @@
 🔍 **About Me:**
 - 🎓 I'm a Senior Lawyer who transitioned into the IT field.
 - 💡 Passionate about Legal Tech, bridging the gap between law and technology.
-- 🌐 Fluent in English, German, and Portuguese.
+- 🌐 Fluent in English and Portuguese. Good German. 
 
 🛠 **Technical Skills:**
 - 🐍 Proficient in Python and Django.
