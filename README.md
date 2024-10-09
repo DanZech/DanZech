@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 🔍 **About Me:**
-- 🎓 I'm a Senior Lawyer who transitioned into the IT field.
+- 🎓 I'm a Junior Python Developer on the way to be a Power Fx Expert;
+- 🎓 Gratuated in Law & Social Sciences, Master in Constitutional & Labour Law
+- 🎓 More than 15 years experience as Lawyer (criminal and business law)
 - 💡 Passionate about Legal Tech, bridging the gap between law and technology.
 - 🌐 Fluent in English and Portuguese. Good German. 
 
 🛠 **Technical Skills:**
-- 🐍 Proficient in Python and Django.
+- 🐍 Proficient in Python (Django, Seleninum, more).
+- ⛳ Proficient in Power Fx (Microsoft Power Platform)
 - 📊 Skilled in Data Science techniques including data analysis, machine learning, and visualization.
 - ☁️ Skilled in AWS and familiar with Linux environments.
 - 📚 Continuously learning and expanding my IT skills.
